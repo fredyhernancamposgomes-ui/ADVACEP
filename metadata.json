@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca Viva de Citología",
+  "description": "Biblioteca interactiva y visual de Citología I y II con 30 nodos temáticos estructurados, analogías inmersivas, ultraestructura celular y generación de quiz activo con IA en cada nodo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
